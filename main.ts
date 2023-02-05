@@ -67,7 +67,7 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
         .........6bbbbb6
         ..........6bbb6.
         ...........666..
-        `, SpriteKind.obstacle)
+        `, SpriteKind.Food)
     mySprite2.setPosition(139, 57)
 })
 let mySprite2: Sprite = null
